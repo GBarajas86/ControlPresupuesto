@@ -1,6 +1,5 @@
 import React from 'react'
 import Gasto from './Gasto'
-import PropTypes from 'prop-types'
 
 const Listado = ({gastos}) => {
     return (
